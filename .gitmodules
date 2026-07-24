@@ -1,7 +1,11 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/pascal-kueng/pascal-kueng.r-universe.dev
 	branch = HEAD
+[submodule "dyadMLM"]
+	path = dyadMLM
+	url = https://github.com/Pascal-Kueng/dyadMLM
+	branch = fix/workshop-model-comparison
 [submodule "wbCorr"]
 	path = wbCorr
-	url = https://github.com/pascal-kueng/wbcorr
+	url = https://github.com/Pascal-Kueng/wbCorr
